@@ -1,0 +1,4 @@
+src/media/player2/Char2_walk_right.png
+src/media/player2/Char2_walk_down.png
+src/media/player2/Char2_walk_left.png
+src/media/player2/Char2_walk_up.png

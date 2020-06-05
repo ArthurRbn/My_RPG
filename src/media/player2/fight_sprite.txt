@@ -1,0 +1,4 @@
+src/media/player2/Char2_two_attack_right.png
+src/media/player2/Char2_two_attack_down.png
+src/media/player2/Char2_two_attack_left.png
+src/media/player2/Char2_atk_up.png

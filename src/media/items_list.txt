@@ -1,0 +1,5 @@
+src/media/npc_configs/npc1 src/media/heal_popo.png 0
+src/media/npc_configs/npc2 src/media/xp_popo.png 1
+src/media/npc_configs/npc4 src/media/heal_popo.png 0
+src/media/npc_configs/npc6 src/media/xp_popo.png 1
+src/media/npc_configs/npc7 src/media/xp_popo.png 1

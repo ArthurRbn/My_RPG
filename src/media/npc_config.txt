@@ -1,0 +1,10 @@
+src/media/npc_configs/npc1 200 200
+src/media/npc_configs/npc2 2630 600
+src/media/npc_configs/npc3 4500 500
+src/media/npc_configs/npc4 10600 2750
+src/media/npc_configs/npc5 3000 5300
+src/media/npc_configs/npc6 8400 2700
+src/media/npc_configs/npc7 4300 2700
+src/media/npc_configs/npc8 8400 3000
+src/media/npc_configs/npc9 9400 3600
+src/media/npc_configs/npc10 1000 2300

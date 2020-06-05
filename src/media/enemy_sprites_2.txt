@@ -1,0 +1,4 @@
+src/media/enemy_sprites/Skel_walk_right_red.png
+src/media/enemy_sprites/Skel_walk_down_red.png
+src/media/enemy_sprites/Skel_walk_left_red.png
+src/media/enemy_sprites/Skel_walk_up_red.png

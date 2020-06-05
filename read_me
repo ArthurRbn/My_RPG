@@ -1,5 +1,0 @@
-Il se peut que le jeu crash à cause d'un probleme de "AL lib: (EE) alc_cleanup: 1 device not closed SFML", dans beaucoup de cas ce message apparaitra.
-Pour tester le jeu relancez le jeu avec ./my_rpg [player_name] et il est peu probable que le crash arrive deux fois de suite.
-Le bug à été longuement cherché (avec un AER) et il a été conclu qu'il n'était pas attribué à mon code sans pour autant trouver un moyen de l'éviter.
-La lib CSFML est correctement utilisée et les sfSound, sfSoundBuffer et sfMusic sont bien init et destroy.
-Si vous décidez de fouiller et que vous trouvez d'où vient le bug je serais currieux d'en connaitre la source, contactez moi à arthur.robine@epitech.eu

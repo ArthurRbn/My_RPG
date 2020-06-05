@@ -1,4 +1,14 @@
 # My_RPG
 
-Il se peut que le jeu crash à cause d'un probleme de "AL lib: (EE) alc_cleanup: 1 device not closed SFML", dans beaucoup de cas ce message apparaitra.
-Pour tester le jeu relancez le jeu avec ./my_rpg [player_name] et il est peu probable que le crash arrive deux fois de suite.
+Epitech year-end Project
+
+This is a RPG videogame realised in C with the CSFML library.
+
+In this game you can interract with your environment: speak with NPCs, fight different enemies, collect items and complete multiple quests !
+
+The test the game build the binary using the makefile and make sure you have installed the CSFML library on your computer.
+Then user the command "./my_rpg [player_name]" to launch the game
+
+Realised alone in one month
+
+Download the CSFML library : https://www.sfml-dev.org/download/csfml/

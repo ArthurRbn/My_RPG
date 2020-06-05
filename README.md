@@ -6,8 +6,8 @@ This is a RPG videogame realised in C with the CSFML library.
 
 In this game you can interract with your environment: speak with NPCs, fight different enemies, collect items and complete multiple quests !
 
-The test the game build the binary using the makefile and make sure you have installed the CSFML library on your computer.
-Then user the command "./my_rpg [player_name]" to launch the game
+To test the game build the binary using the makefile and make sure you got the CSFML library on your computer.
+Then use the command "./my_rpg [player_name]" to launch the game
 
 Realised alone in one month
 
